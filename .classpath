@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/com.ibm.ws.st.core.runtimeClasspathProvider/com.ibm.worklight"/>
+	<classpathentry kind="con" path="com.worklight.studio.plugin.classpath.SERVER_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="server/java"/>
+	<classpathentry kind="src" output="adapters/salesassist_category/bin" path="adapters/salesassist_category/src"/>
+	<classpathentry kind="src" output="adapters/salesassist_product/bin" path="adapters/salesassist_product/src"/>
+	<classpathentry kind="src" output="adapters/salesassist_store/bin" path="adapters/salesassist_store/src"/>
+	<classpathentry kind="src" output="adapters/salesassist_cart/bin" path="adapters/salesassist_cart/src"/>
+	<classpathentry kind="src" output="adapters/salesassist_user/bin" path="adapters/salesassist_user/src"/>
+	<classpathentry kind="src" output="adapters/salesassist_promocode/bin" path="adapters/salesassist_promocode/src"/>
+	<classpathentry kind="lib" path="server/lib/json-simple-1.1.1.jar" rootpath="/"/>
+	<classpathentry kind="lib" path="adapters/salesassist_cart/lib/petsCommom1.2.jar" rootpath="/"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

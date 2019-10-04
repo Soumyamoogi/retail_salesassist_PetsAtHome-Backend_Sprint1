@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="PetsAtHome">
+        <wb-resource deploy-path="/" source-path="/apps/salesassist"/>
+        <wb-resource deploy-path="/" source-path="/adapters/salesassist_category/src"/>
+        <wb-resource deploy-path="/" source-path="/adapters/salesassist_product/src"/>
+        <wb-resource deploy-path="/" source-path="/adapters/salesassist_store/src"/>
+        <wb-resource deploy-path="/" source-path="/adapters/salesassist_cart/src"/>
+        <wb-resource deploy-path="/" source-path="/adapters/salesassist_user/src"/>
+        <property name="context-root" value="PetsAtHome"/>
+    </wb-module>
+</project-modules>
